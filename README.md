@@ -1,2 +1,2 @@
 # datasets
-Machine Learning Datasets
+mlocity.in datasets for case studies
