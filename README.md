@@ -1,2 +1,2 @@
 # datasets
-mlocity.in datasets for case studies
+datasets for case studies
